@@ -58,7 +58,7 @@ enum Difficulty {
 
 #### Bloky
 
-![Příklad hlasovače](https://github.com/SmutnyJan/pxt-spoon-balancing-extension/blob/master/images/easyexample.png)
+![Příklad hlasovače](https://github.com/microbit-cz/pxt-spoon-balancing-extension/blob/master/images/easyexample.png)
 
 #### Kód
 
@@ -81,10 +81,12 @@ basic.forever(function () {
 })
 ```
 
+Demo  [https://github.com/microbit-cz/pxt-spoon-balancing-demo-easy](https://github.com/microbit-cz/pxt-spoon-balancing-demo-easy)
+
 ### Hra s detekcí podle souřadnic
 
 #### Bloky
-![Těžký příklad](https://github.com/SmutnyJan/pxt-spoon-balancing-extension/blob/master/images/hardexample.png)
+![Těžký příklad](https://github.com/microbit-cz/pxt-spoon-balancing-extension/blob/master/images/hardexample.png)
 
 #### Kód
 ```
@@ -113,3 +115,4 @@ basic.forever(function () {
     }
 })
 ```
+Demo  [https://github.com/microbit-cz/pxt-spoon-balancing-demo-hard](https://github.com/microbit-cz/pxt-spoon-balancing-demo-hard)
